@@ -1,4 +1,4 @@
-## Auto-Blusy
+# Auto-Blusy
 
 ## Aplicação web feita com intuito de criar uma interface web entre a pessoa e um arduíno.
 
