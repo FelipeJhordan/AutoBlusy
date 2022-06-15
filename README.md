@@ -1,5 +1,16 @@
-# autoblusy-dev
-Version 0.1
+## Auto-Blusy
 
+## Aplicação web feita com intuito de criar uma interface web entre a pessoa e um arduíno.
 
-Em andamento
+## Tecnologias utilizadas
+- Java
+- Maven
+- Spring Boot
+- Spring Security
+- Spring JPA
+- Tymeleaf
+- Mariadb
+
+## Integrantes
+- Felipe Jhordan ( EU )
+- Daniel Campos
